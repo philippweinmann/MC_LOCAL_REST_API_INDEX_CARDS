@@ -8,8 +8,8 @@ Creating a real backend would be better, but I do not have the infrastructure no
 
 for a longer explanation on how it works: https://www.youtube.com/watch?v=1zkgdLZEdwM
 
-1. install node-js
-2. install json server: `npm install -g json-server`
+1. install node-js: `sudo snap install node --classic`
+2. install json server: `sudo npm install -g json-server`
 3. download this repo and run with: `npm run json:server:index_cards` to launch the index cards database
 
 # How to use on the frontend:
