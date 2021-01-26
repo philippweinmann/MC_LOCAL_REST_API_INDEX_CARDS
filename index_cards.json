@@ -2,12 +2,11 @@
   "index_cards": [
     {
       "id": "1",
-      "title": "John",
-      "front": "Doe djkbwe ejnewd uewk nbdkwejbhja hfjsd mnadsfbjhd ?",
-      "back": "john@lkdshfjklsdbakn. dk.ns v,nsd v,hsjadn vasdjhf gbasdjkf slhakufh  asdfiuk djhfdjksafg bhasdlkjfgahbsd hkfgjgdbs,vjdhks.com",
-      "subject": "Programmieren",
-      "field": "Informatik",
-      "link": "wikipedia.com"
+      "title": "Pervasive Computing",
+      "front": "Was bedeutet Pervasive Computing?",
+      "back": "Alles Durchdringend, jeder Lebensbereich ist davon betroffen",
+      "subject": "programmieren",
+      "link": ""
     }
   ]
 }
